@@ -1,0 +1,1 @@
+This repository contains my Jupyter notebooks for my Deep Learning class (CS 672) at Pace University. My midterm and final projects can be found under "projects". My homework assignments can be found under "assignments". Other notebooks (some of which are related to the homework assignments) can be found under "other".
